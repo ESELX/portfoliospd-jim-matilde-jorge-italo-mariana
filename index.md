@@ -1,16 +1,16 @@
 ---
-title: "Nome do Grupo"
+title: JIM
 icon: lucide/users
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: "Nome do Grupo"
-hero_subtitle: "Prototipagem Digital · 2025-26"
+hero_title: Matilde Jorge, Ítalo Lohan, Mariana Ferretto
+hero_subtitle: Prototipagem Digital · 2025-26
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
 published: true
-course: "PrototipagemDigital"
+course: PrototipagemDigital
 group_name: ""
 group_number: ""
 members:
@@ -26,11 +26,11 @@ members:
 
 ## Elementos do Grupo
 
-| Número  | Nome    |
-| ------- | ------- |
-| 20XXXXX | Aluno A |
-| 20YYYYY | Aluno B |
-| 20ZZZZZ | Aluno C |
+| Número  | Nome             |
+| ------- | ---------------- |
+| 2024280 | Mariana Ferretto |
+| 20YYYYY | Aluno B          |
+| 20ZZZZZ | Í                |
 
 ---
 
@@ -69,6 +69,26 @@ Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado
      ambos os caminhos por `<numero>-<nome>`. -->
 
 <!-- markdownlint-disable MD033 -->
+<div class="gallery-grid">
+
+  <a class="gallery-card" href="experiencias/_modelo/">
+    <img src="experiencias/_modelo/attachments/hero.jpg" alt="" />
+    <h3>Nome do Projeto</h3>
+    <p>Nome do Aluno</p>
+  </a>
+
+</div>
+<!-- markdownlint-enable MD033 -->
+<div class="gallery-grid">
+
+  <a class="gallery-card" href="experiencias/_modelo/">
+    <img src="experiencias/_modelo/attachments/hero.jpg" alt="" />
+    <h3>Nome do Projeto</h3>
+    <p>Nome do Aluno</p>
+  </a>
+
+</div>
+<!-- markdownlint-enable MD033 -->
 <div class="gallery-grid">
 
   <a class="gallery-card" href="experiencias/_modelo/">
